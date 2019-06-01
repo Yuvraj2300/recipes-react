@@ -1,0 +1,52 @@
+[2019-06-01 16:52:55.199] [sharedprocess] [info] main {"machineId":"1b2acaefa67af21ef846cf7f67d68412a5b8f4477978800224c6dbc5987a5a52"}
+[2019-06-01 16:52:55.660] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:52:56.453] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:52:57.744] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:52:57.750] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:52:57.933] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:52:57.943] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:52:58.035] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:52:58.088] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:53:00.692] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:53:35.233] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-01 16:53:53.151] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:53:53.156] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:53:53.402] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:53:53.413] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:53:53.538] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:53:53.648] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 16:53:55.580] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 16:58:57.010] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:03:57.025] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:08:57.299] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:33.452] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:33.454] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:33.457] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:33.639] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:34.693] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 17:13:34.698] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 17:13:34.705] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 17:13:34.763] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:34.798] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:34.829] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:34.865] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 17:13:34.901] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 17:13:34.914] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 17:13:51.079] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2019-06-01 17:13:51.086] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-01 17:13:52.136] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /tmp/bb5cfffe-f527-4106-accc-8995109ea9d3
+[2019-06-01 17:13:52.234] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dsznajder.es7-react-js-snippets-2.3.0: dsznajder.es7-react-js-snippets
+[2019-06-01 17:13:52.234] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dsznajder.es7-react-js-snippets-2.3.0
+[2019-06-01 17:13:52.235] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2019-06-01 17:13:52.282] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2019-06-01 17:13:57.316] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:18:57.336] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:24:01.926] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:29:01.943] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:34:02.230] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:39:02.250] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:44:02.932] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:49:03.793] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:54:03.807] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 17:59:04.604] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 18:04:04.647] [sharedprocess] [info] Scanned user extensions: 10
