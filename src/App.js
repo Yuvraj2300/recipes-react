@@ -7,37 +7,38 @@ import RecipeDetails from './components/RecipeDetails';
 
 class App extends Component {
   state = {
-    recipes: [],
+    //for dev
+    recipes: recipes,
     url: "https://www.food2fork.com/api/search?key=7ceb253de53f24e234b0cce99d371aa3"
   };
 
-  // AJAX CODE
-  async getRecipes() {
-    try {
-      const data = await fetch(this.state.url);
-      const jsonData = await data.json();
+  // AJAX CODE commented till dev
+  // async getRecipes() {
+  //   try {
+  //     const data = await fetch(this.state.url);
+  //     const jsonData = await data.json();
 
-      this.setState({
-        recipes: jsonData.recipes
-      });
-    } catch (error) {
-      console.log(error)
-    }
-  }
+  //     this.setState({
+  //       recipes: jsonData.recipes
+  //     });
+  //   } catch (error) {
+  //     console.log(error)
+  //   }
+  // }
 
-  //lifecycle mehods.....
-  componentDidMount() {
-    console.log("component mounted")
-    this.getRecipes()
-  }
+  // //lifecycle mehods.....
+  // componentDidMount() {
+  //  console.log("component mounted")
+  //   this.getRecipes()
+  // }
 
 
   render() {
     //checking if the data recieved
-    console.log(this.state.recipes)
+   // console.log(this.state.recipes)
     return (
       <React.Fragment>
-        <RecipeList />
+        <RecipeList recepies={this.state.recipes}/>
 
         <RecipeDetails />
       </React.Fragment>

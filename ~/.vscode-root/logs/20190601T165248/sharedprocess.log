@@ -50,3 +50,47 @@
 [2019-06-01 17:54:03.807] [sharedprocess] [info] Scanned user extensions: 10
 [2019-06-01 17:59:04.604] [sharedprocess] [info] Scanned user extensions: 10
 [2019-06-01 18:04:04.647] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 18:09:04.661] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 18:14:04.691] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 18:15:34.014] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2019-06-01 18:15:34.582] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-01 18:15:36.031] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /tmp/5c2832e9-cb6e-497d-8d57-b5128d38b81f
+[2019-06-01 18:15:36.896] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+[2019-06-01 18:15:36.896] [sharedprocess] [info] Renamed to /root/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2019-06-01 18:15:36.897] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2019-06-01 18:15:37.035] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2019-06-01 18:18:42.924] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:18:42.925] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:18:42.925] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:18:45.425] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 18:18:45.431] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 18:18:45.436] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 18:18:45.535] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:18:45.662] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:18:45.677] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 18:18:45.700] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:18:45.797] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 18:18:45.808] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 18:19:00.491] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-06-01 18:19:00.499] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:19:04.861] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-01 18:19:50.622] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/dde5c38f-4b3a-48dc-a0fd-3828470a5241
+[2019-06-01 18:20:02.753] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-1.9.0: esbenp.prettier-vscode
+[2019-06-01 18:20:02.753] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-1.9.0
+[2019-06-01 18:20:02.754] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2019-06-01 18:20:03.868] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2019-06-01 18:24:05.715] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:29:05.886] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:34:05.922] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:39:06.182] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:44:06.201] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:49:06.388] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:54:06.506] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 18:59:09.476] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:04:09.494] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:09:09.546] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:14:09.740] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:19:09.777] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:24:09.982] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:29:10.053] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 19:34:10.632] [sharedprocess] [info] Scanned user extensions: 12

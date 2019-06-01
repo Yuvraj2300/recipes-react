@@ -1,3 +1,7 @@
 {
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.zoomLevel": 0
 }
