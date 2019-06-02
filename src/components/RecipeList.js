@@ -6,7 +6,13 @@ import { recipes } from '../tempList';
 export default class RecipeList extends Component {
 
     render() {
-        //const { recipes } = this.props;
+        console.log('checking for the props in RList');
+        console.log(this.props.recipes);
+
+//UNCOMMENT TO USE AJAX CALL
+    //    const recipes = this.props.recipes;
+        console.log(recipes);
+
 
         return (
             <React.Fragment>

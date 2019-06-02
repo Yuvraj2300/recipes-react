@@ -1,0 +1,53 @@
+1/6/2019, 11:08:29 PM:
+----------------------
+';' expected. (/home/yuvraj/gitHub/confusion/conFusion/src/app/shared/Comment.ts:2:18)
+  1 | export class Comment{
+> 2 |     rating:number,
+    |                  ^
+  3 |     comment:string
+  4 | }
+
+1/6/2019, 11:08:29 PM:
+----------------------
+';' expected. (/home/yuvraj/gitHub/confusion/conFusion/src/app/shared/Comment.ts:2:18)
+  1 | export class Comment{
+> 2 |     rating:number,
+    |                  ^
+  3 |     comment:string
+  4 | }
+
+1/6/2019, 11:08:29 PM:
+----------------------
+';' expected. (/home/yuvraj/gitHub/confusion/conFusion/src/app/shared/Comment.ts:2:18)
+  1 | export class Comment{
+> 2 |     rating:number,
+    |                  ^
+  3 |     comment:string
+  4 | }
+
+1/6/2019, 11:08:41 PM:
+----------------------
+';' expected. (/home/yuvraj/gitHub/confusion/conFusion/src/app/shared/Comment.ts:2:18)
+  1 | export class Comment{
+> 2 |     rating:number,
+    |                  ^
+  3 |     comment:string
+  4 | }
+
+1/6/2019, 11:10:26 PM:
+----------------------
+'from' expected. (/home/yuvraj/gitHub/confusion/conFusion/src/app/shared/dish.ts:3:1)
+  1 | import {Comment}
+  2 | 
+> 3 | export class Dish{
+    | ^
+  4 |     id: string;
+  5 |     name: string;
+  6 |     image: string;
+
+1/6/2019, 11:12:24 PM:
+----------------------
+Expression expected. (/home/yuvraj/gitHub/confusion/conFusion/src/app/shared/dishes.ts:1:19)
+> 1 | import {Dish} from
+    |                   ^
+

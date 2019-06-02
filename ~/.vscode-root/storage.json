@@ -2,7 +2,8 @@
     "telemetry.machineId": "1b2acaefa67af21ef846cf7f67d68412a5b8f4477978800224c6dbc5987a5a52",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/yuvraj/React-Projs/recipe"
+            "file:///home/yuvraj/React-Projs/recipe",
+            "file:///home/yuvraj/gitHub/confusion/conFusion"
         ],
         "files2": []
     },
@@ -56,6 +57,17 @@
                                     },
                                     "enabled": true,
                                     "label": "/home/yuvraj/React-Projs/recipe"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/yuvraj/gitHub/confusion/conFusion",
+                                        "path": "/home/yuvraj/gitHub/confusion/conFusion",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/yuvraj/gitHub/confusion/conFusion"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1359,5 +1371,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/yuvraj/React-Projs"
+    "pickerWorkingDir": "/home/yuvraj/React-Projs",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/yuvraj/gitHub/confusion/conFusion",
+            "backupPath": "/home/yuvraj/React-Projs/recipe/~/.vscode-root/Backups/d84c8bcb5bbdd384e6616287e63cdaf5",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 26,
+                "width": 1366,
+                "height": 714
+            }
+        },
+        "openedWindows": []
+    }
 }

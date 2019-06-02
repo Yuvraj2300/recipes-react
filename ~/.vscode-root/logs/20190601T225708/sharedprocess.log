@@ -1,0 +1,60 @@
+[2019-06-01 22:57:14.756] [sharedprocess] [info] main {"machineId":"1b2acaefa67af21ef846cf7f67d68412a5b8f4477978800224c6dbc5987a5a52"}
+[2019-06-01 22:57:16.009] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:16.514] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:16.562] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:18.140] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:18.146] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:18.150] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:18.218] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:18.276] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:18.624] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:31.945] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:31.950] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:32.102] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:32.115] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:32.285] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:32.366] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 22:57:34.074] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 22:57:54.771] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-01 23:02:34.574] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:07:34.619] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:07:44.698] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:07:44.700] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:07:45.882] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:07:45.892] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:07:46.010] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:07:46.074] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:07:46.079] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:09:52.756] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:52.759] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:52.762] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:52.764] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:52.860] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:09:52.865] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:09:52.871] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:09:52.948] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:52.950] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:52.971] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:09:53.021] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:09:53.030] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:09:53.039] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-01 23:10:06.058] [sharedprocess] [info] Installing extension: mikael.angular-beastcode
+[2019-06-01 23:10:06.073] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-01 23:10:46.748] [sharedprocess] [info] Downloaded extension: mikael.angular-beastcode /tmp/a2212709-c639-4e84-bbf2-349519f00125
+[2019-06-01 23:10:46.892] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mikael.angular-beastcode-8.0.7: mikael.angular-beastcode
+[2019-06-01 23:10:46.892] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mikael.angular-beastcode-8.0.7
+[2019-06-01 23:10:46.893] [sharedprocess] [info] Installation completed. mikael.angular-beastcode
+[2019-06-01 23:10:46.941] [sharedprocess] [info] Extensions installed successfully: mikael.angular-beastcode
+[2019-06-01 23:12:46.161] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:17:46.174] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:22:46.409] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:27:46.452] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:32:48.270] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:37:48.315] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:42:48.635] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:47:48.727] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:52:48.797] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-01 23:57:50.904] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-02 00:02:50.934] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-02 00:07:50.980] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-02 00:12:51.001] [sharedprocess] [info] Scanned user extensions: 13
