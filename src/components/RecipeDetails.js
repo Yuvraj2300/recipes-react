@@ -9,7 +9,7 @@ export default class RecipeDetails extends Component {
         this.state = {
             recipe: { recipe },
             // eslint-disable-next-line no-template-curly-in-string
-            url: 'https://www.food2fork.com/api/get?key=7ceb253de53f24e234b0cce99d371aa3&Id='+this.props.id
+            url: 'https://www.food2fork.com/api/get?key=7ceb253de53f24e234b0cce99d371aa3&Id=' + this.props.id
         };
     }
 
@@ -39,12 +39,15 @@ export default class RecipeDetails extends Component {
             source_url,
             title,
             ingredients } = this.state.recipe.recipe;
+        const { handleIndex } = this.props
         return (
             <React.Fragment>
                 <div className="container">
                     <div className="row">
                         <div className="col-10 mx-auto col-md-6 my-3">
-                            <button type="button"
+                            <button
+                                onClick={(e) => handleIndex(1)}
+                                type="button"
                                 className="btn btn-warning mb-5 text-capitalize">
                                 back to recipe list
                             </button>

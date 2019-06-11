@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Recipe from './Recipe';
 import RecipeSearch from './RecipeSearch'
-import { recipes } from '../tempList';
+//import { recipes } from '../tempList';
 
 export default class RecipeList extends Component {
 
@@ -9,8 +9,8 @@ export default class RecipeList extends Component {
         console.log('checking for the props in RList');
         console.log(this.props.recipes);
 
-//UNCOMMENT TO USE AJAX CALL
-    //    const recipes = this.props.recipes;
+        //UNCOMMENT TO USE AJAX CALL
+        const { recipes, handleDetails } = this.props;
         console.log(recipes);
 
 
@@ -34,7 +34,8 @@ export default class RecipeList extends Component {
                                 return (
                                     <Recipe
                                         key={recipe.recipe_id}
-                                        recipe={recipe} />
+                                        recipe={recipe}
+                                        handleDetails={() => handleDetails(0, recipe.recipe_id)} />
                                 )
                             })
                         }
